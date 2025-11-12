@@ -13,7 +13,7 @@ Parallelism allows us to split a large workload, e.g a large number of tests, ac
 <details>
   <summary>Spoiler warning</summary>
 
-  * https://circleci.com/docs/2.0/parallelism-faster-jobs/#running-split-tests
+  * https://circleci.com/docs/guides/optimize/parallelism-faster-jobs/#how-test-splitting-works
   * https://circleci.com/docs/test-splitting-tutorial/
   
 </details>
