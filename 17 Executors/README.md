@@ -11,14 +11,15 @@ What key aspects are important to note?
 - Define and create a job for: machine, macOS, and windows; docker has been created for you
 - Add to the configuration as needed
 - Share link to green job.
+- Bonus points if you can use a reusable executor
 
 **Help:**
 
 <details>
   <summary>Spoiler warning</summary>
 
-https://circleci.com/docs/executor-intro
-https://circleci.com/docs/executor-intro#windows
-https://circleci.com/docs/executor-intro#macos
+- https://circleci.com/docs/executor-intro
+- https://circleci.com/docs/executor-intro#windows
+- https://circleci.com/docs/executor-intro#macos
 
 </details>
