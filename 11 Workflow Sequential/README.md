@@ -13,6 +13,6 @@ The user has constructed a basic `build`, `test`, `deploy` workflow. Except, for
 <details>
   <summary>Spoiler warning</summary>
 
-  * https://circleci.com/docs/2.0/workflows-overview/
+  * [https://circleci.com/docs/2.0/workflows-overview/](https://circleci.com/docs/guides/orchestrate/workflows/)
   
 </details>
