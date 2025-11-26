@@ -15,7 +15,7 @@ We have a `api-job` job in our workflow. We have decided we only ever want to ru
 <details>
   <summary>Spoiler warning</summary>
 
-  * https://circleci.com/docs/2.0/managing-api-tokens/
+  * [https://circleci.com/docs/2.0/managing-api-tokens/](https://circleci.com/docs/guides/toolkit/managing-api-tokens/)
   * https://circleci.com/docs/api/v2/#operation/triggerPipeline
   * https://support.circleci.com/hc/en-us/articles/360052405651-Utilizing-Basic-authorization-in-CircleCI-API-calls
 
